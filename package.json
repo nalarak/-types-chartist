@@ -1,0 +1,37 @@
+{
+    "version": "0.0.1",
+    "author": {
+        "name": "Jean-Philippe Chartier",
+        "url": "https://github.com/nalarak"
+    },
+    "contributors": [
+        {
+          "name": "Matt Gibbs",
+          "url": "https://github.com/mtgibbs"
+        },
+        {
+          "name": "Simon Pfeifer",
+          "url": "https://github.com/psimonski"
+        },
+        {
+          "name": "Anastasiia Antonova",
+          "url": "https://github.com/affilnost"
+        },
+        {
+          "name": "Sunny Juneja",
+          "url": "https://github.com/sunnyrjuneja"
+        },
+        {
+          "name": "Sam Raudabaugh",
+          "url": "https://github.com/raudabaugh"
+        },
+        {
+          "name": "Manuel Borrajo",
+          "url": "https://github.com/borrajo"
+        },
+        {
+          "name": "Alexander Goooseman",
+          "url": "https://github.com/goooseman"
+        }
+      ],
+}
